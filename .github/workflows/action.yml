@@ -12,4 +12,4 @@ jobs:
     #  contents: read
     #  packages: write
     steps:
-      - run echo "Hola"
+      - run: echo "Hola Mundo"
